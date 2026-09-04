@@ -4,10 +4,10 @@ set -e
 
 # ============================================================
 # FirewallFalcon Manager — Installer
-# Repozytorium: https://github.com/taifunss/FirewallFalcon-Manager
+# Repozytorium: https://github.com/taifunss/moj-manager
 # ============================================================
 
-REPO="taifunss/FirewallFalcon-Manager"
+REPO="taifunss/moj-manager"
 RAW_BASE="https://raw.githubusercontent.com/${REPO}/main"
 
 MENU_URL="${RAW_BASE}/menu.sh"
